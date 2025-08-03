@@ -1,2 +1,0 @@
-# My-projects
-Resume Generator
